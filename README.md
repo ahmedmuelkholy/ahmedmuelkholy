@@ -23,7 +23,6 @@ Anime 🍥 | Technology 🔧 | Gaming 🎮 | Movies 🎬 | Life Enthusiast 🌟
 
 ## 📫 Let's Connect
 
-- 🌐 [Check out my code](https://github.com/ahmedmuelkholyy)
 - 📧 Email: ahmedmohelkholy@gmail.com
 
 Let's build something amazing together! 🚀
