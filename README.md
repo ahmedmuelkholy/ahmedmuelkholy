@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ahmed Muelkholyy
+# Hey there! 👋 I'm Ahmed
 
 Passionate about data, technology, and everything in between. 🚀
 
